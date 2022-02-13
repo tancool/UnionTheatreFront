@@ -1,0 +1,30 @@
+{
+  "id": "1980637",
+  "name": "node_vue_movie",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6802128",
+      "name": "Film-Clapper",
+      "font_class": "Film-Clapper",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "16195477",
+      "name": "天气",
+      "font_class": "tianqi1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6645622",
+      "name": "天气",
+      "font_class": "tianqi",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    }
+  ]
+}

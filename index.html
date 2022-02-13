@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+    content="width=device-width,initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>联盟大剧院</title>
+  <style type="text/css">
+    .icon {
+      width: 1em;
+      height: 1em;
+      vertical-align: -0.15em;
+      fill: currentColor;
+      overflow: hidden;
+    }
+
+    /* 为了图标生效 */
+  </style>
+</head>
+
+<body>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+  <script>
+    var clientWidth = document.documentElement.clientWidth;
+    var sheets = document.styleSheets[0];
+    clientWidth = clientWidth > 780 ? 780 : clientWidth;
+
+    /*
+    - 设计规范
+      - 主要背景是 
+        - 黑色
+        - 黑灰色
+      - 字体有
+        - 白色 --whitegray-color:#8A8A8C;
+        - 白灰色
+        - 黑色
+        - 黑灰色
+      - 模块背景有
+        - 灰黑色
+        - 红色
+      - 装饰色
+        - 浅红色
+        - 红色
+      - 图标采用红色和纯白色两种.
+        - 所需要的图标
+    */
+    sheets.insertRule('*{margin:0px;padding:0px;box-sizing:border-box;}', 0);
+    sheets.insertRule(':root{--primary-bg-color:#0B0B0D;--secondary-bg-color:#18191B;--white-color:#D4CECE;--whitegray-color:#8A8A8C;--charcoalgray-color:##444;--black-color:#444;--primary-embellish-color:#E5353E;--secondady-embellish-color:#FF6F75;--line-color:#2C2C33;}', 0);
+    //      --primary-module-color:#c7493a;
+    //--secondady-module-color:#c7493a;
+    // --text-color-default:#F9F9F9;
+    // --text-color-dark:#555555;
+    // --tex -color-gary:#7e7e7e;
+    // --btn-color:#d0a85c
+
+    sheets.insertRule('html{font-size:' + clientWidth / 20 + 'px}', 0);
+    sheets.insertRule('body{font-size:12px;background-color:#0B0B0D;color:#d4cece}', 0);
+    sheets.insertRule('h3{font-size:16px;font-weight:550;}', 0);
+    sheets.insertRule('h4{font-size:18px}', 0);
+    sheets.insertRule('p{font-size:14px}', 0);
+    sheets.insertRule('ul{list-style:none}', 0);
+    sheets.insertRule('a{text-decoration:none;color:#D4CECE}', 0);
+    sheets.insertRule('input{outline:none}', 0);
+    sheets.insertRule('button{outline:none}', 0);
+
+    (function isMobile() {
+      if (window.navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i)) {
+        return true; // 移动端
+      } else {
+        alert("检测到您是通过PC或者大屏页面进行访问此页面.为了保证浏览效果,请打开浏览器中的移动端调试模式访问此网页");
+        document.body.innerHTML = '<p style="width:80%;margin:0 auto;padding: 100px;text-align:center">您好,检测到通过非移动端环境进行访问此页面.此页面针对的是移动端环境下进行编写的代码.请按下F12打开移动端调试环境,之后在此刷新页面进行访问</p>';
+        return false; // PC端
+      }
+    })();
+  </script>
+</body>
+
+</html>

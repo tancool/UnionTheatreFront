@@ -1,0 +1,296 @@
+{
+  "id": "2025606",
+  "name": "legueoflegends",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "162019",
+      "name": "钱夹",
+      "font_class": "wallet",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "1376615",
+      "name": "hot",
+      "font_class": "hot",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "6251348",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "12579698",
+      "name": "cool2",
+      "font_class": "cool",
+      "unicode": "e7e3",
+      "unicode_decimal": 59363
+    },
+    {
+      "icon_id": "16370706",
+      "name": "index active",
+      "font_class": "indexactive",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "15838424",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "15838514",
+      "name": "minus",
+      "font_class": "minus",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "15838455",
+      "name": "direction-down",
+      "font_class": "direction-down",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "15838461",
+      "name": "direction-up",
+      "font_class": "direction-up",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "448404",
+      "name": "VIP Icon",
+      "font_class": "vipicon",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "1908108",
+      "name": "75 movie",
+      "font_class": "movie",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7550279",
+      "name": "特权",
+      "font_class": "tequan",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "12097399",
+      "name": "定义车特权",
+      "font_class": "dingyichetequan",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1321266",
+      "name": "arrow",
+      "font_class": "arrow1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "880316",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "593377",
+      "name": "赞同-fill",
+      "font_class": "zantongfill",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    },
+    {
+      "icon_id": "11132210",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "1061319",
+      "name": "gift",
+      "font_class": "gift1",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "11372720",
+      "name": "想看",
+      "font_class": "xiangkan",
+      "unicode": "e8bc",
+      "unicode_decimal": 59580
+    },
+    {
+      "icon_id": "12194170",
+      "name": "hot pepper",
+      "font_class": "hotpepper",
+      "unicode": "ec19",
+      "unicode_decimal": 60441
+    },
+    {
+      "icon_id": "1190823",
+      "name": "like",
+      "font_class": "like",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "356867",
+      "name": "client_ service",
+      "font_class": "clientservice",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "560667",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "583160",
+      "name": "Ticket",
+      "font_class": "ticket",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "761284",
+      "name": "我的心愿单",
+      "font_class": "icon",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "808015",
+      "name": "server",
+      "font_class": "server",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1048894",
+      "name": "QQ",
+      "font_class": "icon_qq",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "1165938",
+      "name": "设备激活",
+      "font_class": "shebeijihuo",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1264361",
+      "name": "煎鸡蛋-Fried Egg",
+      "font_class": "FriedEgg",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "1269460",
+      "name": "Feedback",
+      "font_class": "7yijianfankui",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1898560",
+      "name": "bell",
+      "font_class": "bell",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "3186900",
+      "name": "看报纸",
+      "font_class": "kanbaozhi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "5179132",
+      "name": "番茄",
+      "font_class": "fanqie",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6652248",
+      "name": "payout",
+      "font_class": "payout",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "6986821",
+      "name": "payment",
+      "font_class": "payment",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "7091330",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "10331128",
+      "name": "gift",
+      "font_class": "gift",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "10928223",
+      "name": "order-click",
+      "font_class": "orderclick",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13553801",
+      "name": "movie-fill",
+      "font_class": "movie-fill",
+      "unicode": "eeee",
+      "unicode_decimal": 61166
+    },
+    {
+      "icon_id": "14629217",
+      "name": "payCard",
+      "font_class": "payCard",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "15616904",
+      "name": "comment",
+      "font_class": "comment",
+      "unicode": "e876",
+      "unicode_decimal": 59510
+    }
+  ]
+}
