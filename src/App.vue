@@ -12,7 +12,8 @@ export default {
     var clientWidth = document.documentElement.clientWidth;
     var appElem = document.getElementById("app");
 
-    if (clientWidth > 780) { // 如果屏幕宽度大于780增加的样式
+    if (clientWidth > 780) {
+      // 如果屏幕宽度大于780增加的样式
       var sheets = document.styleSheets[0];
       // console.log(sheets);
       sheets.insertRule(
@@ -25,5 +26,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
